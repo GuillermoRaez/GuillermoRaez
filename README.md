@@ -1,6 +1,6 @@
 ## Hey Friend! Welcome to my Github Page 👋
 
-My name is Guillermo Van Den Broeck Raez and I am a Junior Frontend Developer based in Valencia, Spain.
+My name is Guillermo Van Den Broeck Raez and I am a Junior MERN Fullstack Developer based in Valencia, Spain.
 
 This Github Profile is only dedicated for learning purpose.
 
@@ -13,13 +13,3 @@ This Github Profile is only dedicated for learning purpose.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can switch languages without even knowing.
 
-### Languages and tools 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-Feel free to look at my code and leave me any comments that will enable me to get better at coding.
