@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey Friend! Welcome to my Github Page 👋
 
-<!--
-**GuillermoRaez/GuillermoRaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guillermo Van Den Broeck Raez and I am a Junior Frontend Developer based in Valencia, Spain.
 
-Here are some ideas to get you started:
+This Github Profile is only dedicated for learning purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Final Project for Geekshubs Academy (React and Node.js).
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on React projects.
+- 🤔 I’m looking for help with React Native.
+- 💬 Ask me about ... Anything.
+- 📫 Private/Business inquiries: guillaumeraez@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can switch languages without even knowing.
+
+Feel free to look at my code and leave me any comments that will enable me to get better at coding.
