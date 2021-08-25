@@ -1,5 +1,7 @@
 ## Hey Friend! Welcome to my Github Page 👋
 
+![](https://komarev.com/ghpvc/?username=GuillermoRaez&color=blue)
+
 My name is Guillermo Van Den Broeck Raez and I am a Junior MERN Fullstack Developer based in Valencia, Spain.
 
 This Github Profile is only dedicated for learning purpose.
